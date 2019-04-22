@@ -1,0 +1,17 @@
+pyQt5
+pyQt5-tools
+pyqtgraph
+pyserial
+scipy
+numpy
+pandas
+opencv-python
+Pilow
+xlrd
+xlwt
+json
+lxml
+pyDes
+Cython
+pyinstaller
+pywin32
